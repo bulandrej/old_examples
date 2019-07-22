@@ -1,0 +1,32 @@
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe.config
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.pdb
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csprojResolveAssemblyReference.cache
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form1.resources
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form2.resources
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Properties.Resources.resources
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csproj.GenerateResource.Cache
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.exe
+F:\_Текучка\_1_Курсы\_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.pdb
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe.config
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.pdb
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csprojResolveAssemblyReference.cache
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form1.resources
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form2.resources
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Properties.Resources.resources
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csproj.GenerateResource.Cache
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csproj.CoreCompileInputs.cache
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.exe
+e:\_1_П32816\Windows Forms\_ЭКЗ\_10\_ГОТОВО\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.pdb
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe.config
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.exe
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\bin\Debug\ekz_Bulgakov_32816_wfrms.pdb
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csprojResolveAssemblyReference.cache
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form1.resources
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Form2.resources
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.Properties.Resources.resources
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csproj.GenerateResource.Cache
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.csproj.CoreCompileInputs.cache
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.exe
+f:\_Разн\!_Progs_текучка\_444\!_C#\ekz_Bulgakov_32816_wfrms\ekz_Bulgakov_32816_wfrms\obj\Debug\ekz_Bulgakov_32816_wfrms.pdb
